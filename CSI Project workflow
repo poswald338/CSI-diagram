@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T21:34:51.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="3m1ub_xnHm1GxfP8c6m2" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T23:43:47.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="TK04YoWENoCtVQSSChx6" version="14.9.8" type="github">
   <diagram id="p2odNe6ZrCFhr5bO0vzS" name="Inquiry">
     <mxGraphModel dx="899" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
         <mxCell id="4UWfRDzegjRLwCkfg1ke-39" value="Questions" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="410" y="1240" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4UWfRDzegjRLwCkfg1ke-40" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Is there a defined model for Prospects?&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Specific type of data to be collected(prospects)?&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Is there a predefined list of types of inquiries?&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;What types of inquiries are we wanting to capture?&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;How to obtain ID to verify customer?&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="4UWfRDzegjRLwCkfg1ke-40" value="&lt;ul style=&quot;font-size: 15px&quot;&gt;&lt;li style=&quot;font-size: 15px&quot;&gt;Is there a defined model for Prospects?&lt;/li&gt;&lt;li style=&quot;font-size: 15px&quot;&gt;Specific type of data to be collected(prospects)?&lt;/li&gt;&lt;li style=&quot;font-size: 15px&quot;&gt;Is there a predefined list of types of inquiries?&lt;/li&gt;&lt;li style=&quot;font-size: 15px&quot;&gt;What types of inquiries are we wanting to capture?&lt;/li&gt;&lt;li style=&quot;font-size: 15px&quot;&gt;How to obtain ID to verify customer?&lt;/li&gt;&lt;li style=&quot;font-size: 15px&quot;&gt;Is bank interaction automated?&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="380" y="1280" width="260" height="220" as="geometry" />
         </mxCell>
         <mxCell id="4UWfRDzegjRLwCkfg1ke-42" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
